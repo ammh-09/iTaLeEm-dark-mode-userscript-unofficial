@@ -10,5 +10,5 @@
 2. Open Tampermonkey
 3. Go to Utilities tab at the top-right corner
 4. On the Import from file option, click "Browse...*
-5. Upload the .js file
+5. Upload the iTa'LeEm-dark-mode.txt file
 6. Click install
